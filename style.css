@@ -1,0 +1,41 @@
+body{
+    background-image: url('image.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+h1{
+    text-align: center;
+    background-color: black;
+    color:blanchedalmond;
+    font-size: 30px;
+    border: 5px solid teal;
+}
+h2{
+    text-align: center;
+    color: blanchedalmond;
+    font-size:30px;
+    border: 5px solid teal;
+    text-transform: uppercase;
+    background-color: black;
+    color:blanchedalmond;
+}
+p{
+    text-align: end;
+    padding: 10px;
+    color:blanchedalmond;
+    width: 100%;
+    height:80%;
+    background-color: black;
+    box-shadow: 25px 15px 25px rgb(0, 128, 128,.3);
+    overflow: hidden;
+    border: 5px solid teal;
+    margin-right:10px;
+}
+.input1{
+    margin-right: 10px;
+    background-color: rgb(21, 216, 223);
+    color:black;
+    border:4px solid blanchedalmond;    
+}
